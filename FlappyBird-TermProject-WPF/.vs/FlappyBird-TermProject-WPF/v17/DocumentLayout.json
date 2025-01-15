@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|c:\\users\\asus\\source\\repos\\flappybird-termproject-wpf\\model\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:model\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\model\\backgroundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:model\\backgroundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\gameplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:gameplay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\gameplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:gameplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\loadingscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:loadingscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\model\\musicstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:model\\musicstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\loadingscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:loadingscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\model\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B656A0-DD2A-4AB0-8EB6-8547ACCDA30B}|FlappyBird-TermProject-WPF.csproj|solutionrelative:model\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Menu.xaml.cs",
+              "RelativeToolTip": "Menu.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:57:00.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackgroundEffect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\BackgroundEffect.cs",
+              "RelativeDocumentMoniker": "Model\\BackgroundEffect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\BackgroundEffect.cs",
+              "RelativeToolTip": "Model\\BackgroundEffect.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:52:27.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\GameEngine.cs",
+              "RelativeDocumentMoniker": "Model\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\GameEngine.cs",
+              "RelativeToolTip": "Model\\GameEngine.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswHEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:52:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadingScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\LoadingScreen.xaml.cs",
+              "RelativeDocumentMoniker": "LoadingScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\LoadingScreen.xaml.cs",
+              "RelativeToolTip": "LoadingScreen.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAhwCgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:54:30.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gameplay.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Gameplay.xaml.cs",
+              "RelativeDocumentMoniker": "Gameplay.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Gameplay.xaml.cs",
+              "RelativeToolTip": "Gameplay.xaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAASwHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:55:12.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:51:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\MusicState.cs",
+              "RelativeDocumentMoniker": "Model\\MusicState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\MusicState.cs",
+              "RelativeToolTip": "Model\\MusicState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:52:18.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Menu.xaml",
+              "RelativeDocumentMoniker": "Menu.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Menu.xaml",
+              "RelativeToolTip": "Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T15:56:46.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gameplay.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Gameplay.xaml",
+              "RelativeDocumentMoniker": "Gameplay.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Gameplay.xaml",
+              "RelativeToolTip": "Gameplay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T15:54:54.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T15:51:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadingScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\LoadingScreen.xaml",
+              "RelativeDocumentMoniker": "LoadingScreen.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\LoadingScreen.xaml",
+              "RelativeToolTip": "LoadingScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T15:54:10.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "Model\\AnimationManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FlappyBird-TermProject-WPF\\Model\\AnimationManager.cs",
+              "RelativeToolTip": "Model\\AnimationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:51:33.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
