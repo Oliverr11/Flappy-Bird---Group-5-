@@ -27,7 +27,7 @@ namespace FlappyBird_TermProject_WPF.Model
                 BoostScore.Play();
                 return;
             }
-            if(nameSound == "Boost")
+            if(nameSound == "Countdown")
             {
                 Countdown.Open(new Uri(fullPath, UriKind.Absolute));
                 Countdown.Volume = 0.5;
